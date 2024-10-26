@@ -1,0 +1,1 @@
+# Stupid Sparking Zero Squad Generator
